@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *~
+2024_spring/lec12/desktop.ini
